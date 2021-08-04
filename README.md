@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ISOkafor
+- 👋 Hi, I’m Ifeoma Sandra Okafor
 - 👀 I’m interested in Frontend web design and development and product designing.
 - 🌱 I’m currently learning Frontend web development
 - 💞️ I’m looking to collaborate on ...
